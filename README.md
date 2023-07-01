@@ -13,7 +13,7 @@ This script automates the process of adding songs from your "Likes" playlist in 
 
 2. Open the browser console by right-clicking on the page and selecting "Inspect" or pressing `F12` or `Ctrl + Shift + J` (or `Cmd + Option + J` on macOS).
 
-3. Copy the entire code from the provided script.
+3. Copy the entire code from the provided script: [script.js](https://github.com/Dorinus/youtube_music_likes_to_new_playlist/blob/master/script.js).
 
 4. In the code, modify the following variables according to your requirements:
 
