@@ -11,7 +11,7 @@ This script automates the process of adding songs from your "Likes" playlist in 
 
 1. Open your YouTube Music account and go to the "Likes" playlist.
 
-2. Open the browser console by right-clicking on the page and selecting "Inspect" or pressing `F12`, `Ctrl + Shift + J` (or `Cmd + Option + J` on macOS).
+2. Open the browser console by right-clicking on the page and selecting "Inspect" or pressing `F12` or `Ctrl + Shift + J` (or `Cmd + Option + J` on macOS).
 
 3. Copy the entire code from the provided script.
 
